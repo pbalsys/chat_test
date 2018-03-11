@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61267998170",
+    "firebase_url": "https://chatapplication-7c15a.firebaseio.com",
+    "project_id": "chatapplication-7c15a",
+    "storage_bucket": "chatapplication-7c15a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61267998170:android:cfc10d0bc8d47e88",
+        "android_client_info": {
+          "package_name": "com.example.patrikas.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61267998170-9eff367ml32m4ldcc0ag8cqtbm2h2243.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patrikas.chatapplication",
+            "certificate_hash": "1764afccc542b1b3de3b3f1976464e0866c1205f"
+          }
+        },
+        {
+          "client_id": "61267998170-0bt2nuja6hq8qae3mgq7aimn798e8o9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppgCz8LL9L5QVsWb6NBp-ivK_x3Irsk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61267998170-0bt2nuja6hq8qae3mgq7aimn798e8o9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
